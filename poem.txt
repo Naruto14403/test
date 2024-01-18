@@ -1,4 +1,6 @@
 This is the first line
 Added second line
-Wanted to add third line 
-Conflicting changes in fourth line
+I wanted to add a third line 
+Checking for the fourth line
+Conflict merging in fifth line
+
