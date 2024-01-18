@@ -3,3 +3,4 @@ Added second line
 I wanted to add a third line 
 Checking for the fourth line
 Conflict merging in fifth line
+
